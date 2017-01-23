@@ -2,6 +2,6 @@ package test;
 
 public class Test {
 	public void test(){
-		System.out.println("-----");
+		System.out.println("----ffffffffff-");
 	}
 }
